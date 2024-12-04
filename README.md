@@ -9,6 +9,6 @@
 2. Перейдите в корневую папку:
     cd KwazAppLab2 или cd + Tab
 3. Выполните установку:
-    make install
+    npm ci
 4. Запустите проект:
-    make start
+    npx expo start --clear
